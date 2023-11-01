@@ -7,4 +7,3 @@ spring 2023 ds 3000: foundations of data science
 - Lab (.ipynb files: including both solutions and raw files. rubrics are stored within gradescope)
 - Quizzes (.ipynb files)
 - Project (.ipynb files)
-- Data Sets (occasionally these are also stored in the same folder as the .ipynb file that uses them, for ease of access with jupyter)
