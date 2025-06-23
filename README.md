@@ -1,9 +1,9 @@
 # ds3000
 
-spring 2023 ds 3000: foundations of data science
+regular semester ds 3000: foundations of data science
 
-- Homework (.ipynb files: including both solutions and raw files. rubrics are stored within gradescope. makes use of snip-copy (https://github.com/matthigger/snip_copy)
+- Homework (.ipynb files: including raw files. solutions (not included) make use of snip-copy (https://github.com/matthigger/snip_copy)
 - Lecture Notebooks (.ipynb files: labeled by day of class)
-- Lab (.ipynb files: including both solutions and raw files. rubrics are stored within gradescope)
+- Lab (.ipynb files: including both and raw files. solutions (not included) make use of snip-copy)
 - Quizzes (.ipynb files)
 - Project (.ipynb files)
