@@ -6,4 +6,5 @@ regular semester ds 3000: foundations of data science
 - Lecture Notebooks (.ipynb files: labeled by day of class)
 - Lab (.ipynb files: including both and raw files. solutions (not included) make use of snip-copy)
 - Quizzes (.ipynb files)
+- Exams (coding exams in .ipynb, written in .pdf)
 - Project (.ipynb files)
